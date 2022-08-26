@@ -1,8 +1,7 @@
 
 
 # Test Race - Live - 1 - 26-Aug 
-Tiny URL: https://tinyurl.com/DRNYC2022-TestRaceLive-1
-URL: https://us-east-1.console.aws.amazon.com/deepracer/home#raceToken/WBHgqQiZSbKlzEiuPS5FHw
+URL: https://us-east-1.console.aws.amazon.com/deepracer/home#raceToken/Cnos5ZhwR8KnkbmOSbqBhQ
 
 
 # Test Race - Classic - 3
